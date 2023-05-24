@@ -1,0 +1,343 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "singlybirendrasir",
+            "request": "launch",
+            "mainClass": "singlybirendrasir",
+            "projectName": "java DS_e6578119"
+        },
+        {
+            "type": "java",
+            "name": "singly",
+            "request": "launch",
+            "mainClass": "singly",
+            "projectName": "java DS_e6578119"
+        },
+        {
+            "type": "java",
+            "name": "insertion_position_singly",
+            "request": "launch",
+            "mainClass": "linklist.singly.insertion_position_singly",
+            "projectName": "java DS_e6578119"
+        },
+        {
+            "type": "java",
+            "name": "insertion_end_singly",
+            "request": "launch",
+            "mainClass": "linklist.singly.insertion_end_singly",
+            "projectName": "java DS_e6578119"
+        },
+        {
+            "type": "java",
+            "name": "singly",
+            "request": "launch",
+            "mainClass": "linklist.singly.singly",
+            "projectName": "java DS_e6578119"
+        },
+        {
+            "type": "java",
+            "name": "end_delete",
+            "request": "launch",
+            "mainClass": "linklist.doubly.end_delete",
+            "projectName": "java DS_e6578119"
+        },
+        {
+            "type": "java",
+            "name": "begining_delete",
+            "request": "launch",
+            "mainClass": "teach.singly.begining_delete",
+            "projectName": "java DS_e6578119"
+        },
+        {
+            "type": "java",
+            "name": "create_singly",
+            "request": "launch",
+            "mainClass": "teach.singly.create_singly",
+            "projectName": "java DS_e6578119"
+        },
+        {
+            "type": "java",
+            "name": "spec_del",
+            "request": "launch",
+            "mainClass": "linklist.doubly.spec_del",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "end_delete",
+            "request": "launch",
+            "mainClass": "linklist.doubly.end_delete",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "beg_delete",
+            "request": "launch",
+            "mainClass": "linklist.doubly.beg_delete",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "spec_ins",
+            "request": "launch",
+            "mainClass": "linklist.doubly.spec_ins",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "end_insert",
+            "request": "launch",
+            "mainClass": "linklist.doubly.end_insert",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "binary2deimal",
+            "request": "launch",
+            "mainClass": "binary2deimal",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "brutforce",
+            "request": "launch",
+            "mainClass": "brutforce",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "examQueue",
+            "request": "launch",
+            "mainClass": "examQueue",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "examstack",
+            "request": "launch",
+            "mainClass": "examstack",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "fabonacci",
+            "request": "launch",
+            "mainClass": "fabonacci",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "insert_hashing",
+            "request": "launch",
+            "mainClass": "insert_hashing",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "insertion_sort",
+            "request": "launch",
+            "mainClass": "insertion_sort",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "beg_circular",
+            "request": "launch",
+            "mainClass": "linklist.Circular.beg_circular",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "beg_del",
+            "request": "launch",
+            "mainClass": "linklist.Circular.beg_del",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "circular",
+            "request": "launch",
+            "mainClass": "linklist.Circular.circular",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "end_circular",
+            "request": "launch",
+            "mainClass": "linklist.Circular.end_circular",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "end_delete",
+            "request": "launch",
+            "mainClass": "linklist.Circular.end_delete",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "position_circular",
+            "request": "launch",
+            "mainClass": "linklist.Circular.position_circular",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "position_del_circular",
+            "request": "launch",
+            "mainClass": "linklist.Circular.position_del_circular",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "creation",
+            "request": "launch",
+            "mainClass": "linklist.doubly.creation",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "begining_deletion",
+            "request": "launch",
+            "mainClass": "linklist.singly.begining_deletion",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "end_deletion",
+            "request": "launch",
+            "mainClass": "linklist.singly.end_deletion",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "insertion_begining_singly",
+            "request": "launch",
+            "mainClass": "linklist.singly.insertion_begining_singly",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "insertion_end_singly",
+            "request": "launch",
+            "mainClass": "linklist.singly.insertion_end_singly",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "insertion_position_singly",
+            "request": "launch",
+            "mainClass": "linklist.singly.insertion_position_singly",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "position_deletion",
+            "request": "launch",
+            "mainClass": "linklist.singly.position_deletion",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "singly",
+            "request": "launch",
+            "mainClass": "linklist.singly.singly",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "mandip",
+            "request": "launch",
+            "mainClass": "mandip",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "overflow",
+            "request": "launch",
+            "mainClass": "overflow",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "quee",
+            "request": "launch",
+            "mainClass": "quee",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "stacks",
+            "request": "launch",
+            "mainClass": "stacks",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "swaping_array",
+            "request": "launch",
+            "mainClass": "swaping_array",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "begining_delete",
+            "request": "launch",
+            "mainClass": "teach.singly.begining_delete",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "create_singly",
+            "request": "launch",
+            "mainClass": "teach.singly.create_singly",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "end_delete(1)",
+            "request": "launch",
+            "mainClass": "teach.singly.end_delete",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "inter_end_singly",
+            "request": "launch",
+            "mainClass": "teach.singly.inter_end_singly",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "position_delete",
+            "request": "launch",
+            "mainClass": "teach.singly.position_delete",
+            "projectName": "java DS_20e07ab4"
+        },
+        {
+            "type": "java",
+            "name": "position_singly",
+            "request": "launch",
+            "mainClass": "teach.singly.position_singly",
+            "projectName": "java DS_20e07ab4"
+        }
+    ]
+}
