@@ -10,14 +10,4 @@ operation with the Boolean method isInList().
 number is not in the list
 - If tmp is not null number is found and isInList() is returns true, Otherwise isInList() returns
 false.
-Defining a node class of a singly linked list: -
-class Node
-{
-int da t a;
-Node next ;
-Node( i nt dat a)
-{
-t hi s . dat a=dat a ;
-next =nul l ;
-}
-}
+
